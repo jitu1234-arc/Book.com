@@ -300,11 +300,12 @@ footer {
 
 
 @media screen and (max-width: 768px) {
-  .column {
+  
     width: 100%; /* প্রস্থ ১০০% করে দিন, যাতে এটি পুরো স্ক্রিন জুড়ে আসে */
     float: none;
-  }
+  
 }
+
 
 
 
